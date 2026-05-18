@@ -702,5 +702,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-42c93d72-8ae4-4c5d-93a6-faa921cd7208.mp4",
+        "metadata": {
+            "title": "LOCK IN: TRAIN LIKE A CHAMPION OR GET LEFT BEHIND",
+            "description": "Stop negotiating with yourself\u2014this is an all-gas, no-limits workout where discipline beats excuses every rep. You\u2019ll feel the burn, sharpen your focus, and build that cold-blooded mindset that champions live in. Keep your eyes locked forward, push through the moment your body wants to quit, and prove you\u2019re stronger than your circumstances. Smash that LIKE button if you\u2019re committed to the grind, Comment 'YES' if you're training today, Share this with someone who needs a boost, and Subscribe for your daily dose of motivation! #fitness #motivation #gym #workout #mindset #discipline #success #shorts #reels",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
